@@ -1,0 +1,9 @@
+spring.profiles.active: dev
+logging.level:
+  org.springframework.boot: debug
+
+---
+spring:
+  profiles: dev
+
+---
